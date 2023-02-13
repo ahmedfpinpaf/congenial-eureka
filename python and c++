@@ -1,0 +1,17 @@
+Idiosyncratic repository
+
+print("This is Muhammad Ahmed I completed my FSc from Punjab Group Of Colleges,Pakistan
+When I started using scratch,I started to like it because it was something I never did and even heard about.")
+
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    for(int i=0; i<4; i++)
+    {
+             printf("This is Muhammad Ahmed I completed my FSc from Punjab Group Of Colleges,Pakistan
+When I started using scratch,I started to like it because it was something I never did and even heard about.")
+    }
+
+}
